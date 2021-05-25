@@ -1,0 +1,6 @@
+﻿  Account.cpp
+C:\Users\ADMIN\Desktop\здати\lab2.8\lab1.8\Account.cpp(189,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\здати\lab2.8\lab1.8\Account.cpp(199,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\здати\lab2.8\lab1.8\Account.cpp(221): warning C4172: returning address of local variable or temporary: s
+C:\Users\ADMIN\Desktop\здати\lab2.8\lab1.8\Account.cpp(627): warning C4715: 'operator/': not all control paths return a value
+  lab1.8.vcxproj -> C:\Users\ADMIN\Desktop\здати\lab2.8\lab1.8\Debug\lab2.8.exe
